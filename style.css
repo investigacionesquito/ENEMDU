@@ -1,0 +1,20 @@
+
+.quarto-title-block .quarto-title-banner {
+    background-image: url(logo_quito.jpeg);
+    background-size: 140px;
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-left: 10px;
+    background-origin: content-box;
+  }
+
+
+
+table {
+  caption-side: top;
+  border-collapse: collapse;
+}
+
+.container table {
+  width: 100%; 
+}
